@@ -1,3 +1,17 @@
+
+/*Explicacion usar class e ID:
+- ID: 
+  - Se define con el símbolo `#` y debe ser único en la página. 
+  - Solo puede aplicarse a un solo elemento HTML, lo que significa que no se puede reutilizar en otros elementos. 
+  - Se utiliza cuando se quiere aplicar estilos específicos a un único elemento.
+
+- CLASS: 
+  - Se define con el símbolo `.` y puede aplicarse a múltiples elementos. 
+  - Permite agrupar varios elementos bajo un mismo estilo, lo que facilita la reutilización de estilos en diferentes partes de la página. 
+  - Es útil para aplicar estilos comunes a varios elementos sin necesidad de duplicar código.
+*/
+
+
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
